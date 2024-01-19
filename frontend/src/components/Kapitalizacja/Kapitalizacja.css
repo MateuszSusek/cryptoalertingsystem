@@ -1,0 +1,33 @@
+.main-section {
+  display: flex;
+  margin: auto;
+  background-color: #333;
+  color: #fff;
+  width: 50vw;
+  height: 50vh;
+  margin-top: 5vh;
+  padding: auto;
+}
+
+.left-section,
+.right-section {
+  flex: 1;
+  padding: 20px;
+}
+
+.left-section {
+  background-color: #333;
+}
+
+.right-section {
+  background-color: #333;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+input,
+button {
+  margin-bottom: 10px;
+}
